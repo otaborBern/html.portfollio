@@ -5,6 +5,8 @@ body {
 .navbar-brand {
     display: flex;
     align-items: center;
+    color: brown;
+    background-color: #F6F7C4;
 }
 
 .navbar-brand img {
@@ -20,4 +22,5 @@ footer img {
     max: width 100px;;
     height: auto;
     margin-top: 10px;
+    color:#F6F7C4
 }
